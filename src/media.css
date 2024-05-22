@@ -1,0 +1,225 @@
+/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) { 
+  .twenty{
+    font-size: 2.1rem;
+  }
+  .Home-page-bottom-title{
+    font-size: 1.5rem !important;
+    line-height: 30px;
+    margin-top: 20px !important;
+  }
+  .Home-page-bottom-lines{
+    font-size: .9rem;
+    color: #718096;
+    text-align: right;
+  }
+  .margintop-200{
+    margin-top: 100px;
+    font-size: 2.5rem;
+  }
+  .about-vision-right{
+    text-align: center;
+  }
+  .about-vision-left{
+    text-align: center;
+ }
+ .our-vision-btn{
+  margin: auto;
+ }
+ .why-choose-btn{
+ margin: auto;
+}
+.whychoose-left{
+  text-align: center;
+}
+.text-centerr{
+  text-align: center !important;
+}
+.margintop-80{
+  margin-top: 30px;
+}
+.CMS-ERP-BG{
+  height: 860px;
+  background-color: #008AFF;
+}
+.about-store-btn{
+  margin:auto;
+ }
+ .cms-title{
+  font-size: 1.5rem;
+  color: #fff;
+}
+.cms-lines{
+  color: #fff;
+  font-size: .9rem;
+}
+
+}
+
+/* // `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+    .Home-page-title{
+       text-align: center;
+     }
+     .Home-page-lines{
+        text-align: center;
+        font-size: 0.950rem !important;
+
+      } 
+      .Home-page-buttons{
+        text-align: center;
+        margin-left: 30px !important;
+      }
+      .card2-margin-top{
+        margin-top: 50px !important;
+      }
+      .card3-margin-top{
+        margin-top: 50px !important;
+      }
+      .card-title{
+        font-size: 1.480em;
+      }  
+      .text-md-center{
+        text-align: center !important;
+      }  
+      
+
+ }
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+    .Home-page-title{
+        margin-top: 1.5rem !important;
+        font-size: 1.780rem !important;
+     }
+     .Home-page-lines{
+        font-size: .4rem ;
+        color: #718096;
+        margin-top: 20px;
+      }
+      .First-button{
+        height: 3rem;
+        width: 10rem;
+      }
+      .Second-button{
+        height: 3rem;
+        width: 8rem;
+      }
+      .twenty{
+        text-align: left;
+      }
+      .Home-page-bottom-lines{
+        text-align: left;
+      }
+      .card-lines{
+        font-size: .8rem;
+        color: #718096;
+      }
+      .card-title{
+        font-size: 0.95em !important;
+      }    
+      .card2-margin-top{
+        margin-top: 0px;
+      }
+      
+      .card3-margin-top{
+        margin-top: 0px;
+      }
+      .about-title{
+        font-size: 2rem !important;
+        text-align: center;
+      }
+      .about-lines{
+        font-size: 1rem;
+        text-align: center;
+      }
+      .about-contact-btn{
+        text-align: center !important;
+      }
+      .margintop-120{
+        margin-top: 80px;
+      }
+      .about-box-number{
+        font-size: 1.7rem !important;
+      }
+      .about-box-line{
+        font-size: 1rem;
+      }
+      .blue{
+        color: #152C5B;
+      }
+      .results-title{
+        margin-top: 100px;;
+      }
+ }
+
+/* // `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+    .Home-page-title{
+        margin-top: 5.5rem;
+        font-size: 2.2rem;
+     }
+     .Home-page-lines{
+        font-size: .8rem ;
+        color: #718096;
+        margin-top: 20px;
+      }
+      .First-button{
+        height: 3rem;
+        width: 10rem;
+      }
+      .Second-button{
+        height: 3rem;
+        width: 8rem;
+      }
+      .Home-page-bottom-title{
+        font-size: 2.2rem;
+      }
+      .about-title{
+        font-size: 2.2rem;
+        color: white;
+      }
+      .about-lines{
+        font-size: 1rem;
+      }
+      .about-vision-right{
+        font-size: .9rem;
+      }
+      .about-vision-left{
+        font-size: 1.2rem;
+        color: #152c5b;
+      }
+        .about-box-number{
+      font-size: 1.3rem;
+    }
+  .results-title{
+    color: #152C5B;
+    font-size: 1.5rem;
+  }
+  .results-lines{
+    font-size: .9rem;
+    color: #718096;
+  }
+  .whychoose-left{
+    /* margin-top: 1.5rem; */
+    font-size: 1.050rem;
+    color: #152c5b;
+  }
+  
+  .check-icon{
+    font-size: 1.5rem;
+    color: #008AFF;
+  }
+  }
+
+/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) { 
+  
+ 
+ 
+ }
+
+
+
+
