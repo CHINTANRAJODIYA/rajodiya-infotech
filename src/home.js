@@ -30,7 +30,7 @@ function home(){
           <Col xxl={6} xl={6} lg={6} md={6}  className='mt-5 order-md-2 order-1'>
             <Row>
               <Col>
-                <Image src='https://rajodiya.com/svg/illustrations/illustration-1.svg' fluid />
+                <Image src='https://workdo.io/wp-content/themes/storefront-child/assets/images/sg-bg1.png' fluid />
               </Col>
             </Row>
           </Col>
@@ -66,8 +66,8 @@ function home(){
       <Container className='w-75 margintop-80'>
         <Row >
           <Col xl={4} lg={4} md={4} sm={12}>
-            <Card className='card-bg-color1 border-0'>
-              <Card.Img className='mt-5' src="https://rajodiya.com/svg/illustrations/design-team.svg" height={200}  />
+            <Card className=' border-0'>
+              <Card.Img className='mt-5' src="https://bridge512.qodeinteractive.com/wp-content/uploads/2023/12/blog-img-new-1.jpg" height={270}  />
               <Card.Body className='mt-5 ms-3 me-3'>
                 <Card.Title className='card-title'>Proficient design services</Card.Title>
                 <Card.Text className='mb-4 mt-3 card-lines opacity6'>
@@ -77,8 +77,8 @@ function home(){
             </Card>
           </Col>
           <Col xl={4} lg={4} md={4} sm={12}>
-            <Card className='card2-margin-top card-bg-color2 border-0'>
-              <Card.Img className='mt-5' src="https://rajodiya.com/svg/illustrations/development.svg" height={200} />
+            <Card className='card2-margin-top border-0'>
+              <Card.Img className='mt-5' src="https://bridge512.qodeinteractive.com/wp-content/uploads/2023/12/blog-img-new-2.jpg" height={270} />
               <Card.Body className='mt-5 ms-3 me-3'>
                 <Card.Title className='card-title'>Prompt development</Card.Title>
                 <Card.Text className='mb-4 mt-3 card-lines opacity6'>
@@ -88,8 +88,8 @@ function home(){
             </Card>
           </Col>
           <Col xl={4} lg={4} md={4} sm={12}>
-            <Card className='card3-margin-top card-bg-color3 border-0'>
-              <Card.Img className='mt-5' src="https://rajodiya.com/svg/illustrations/maintenance.svg" height={200} />
+            <Card className='card3-margin-top border-0'>
+              <Card.Img className='mt-5' src="https://bridge512.qodeinteractive.com/wp-content/uploads/2023/12/blog-img-new-3.jpg" height={270} />
               <Card.Body className='mt-5 ms-3 me-3'>
                 <Card.Title className='card-title'>We help you with Upgrade</Card.Title>
                 <Card.Text className='mb-4 mt-3 card-lines opacity6'>

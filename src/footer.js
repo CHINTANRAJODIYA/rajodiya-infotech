@@ -30,7 +30,8 @@ function footer() {
                         <Col lg={4} gap={4}>
                             <Row>
                                 <Col>
-                                <Image src='https://rajodiya.com/img/rajodiya-logo-white.png' height={45}/>
+                                {/* <Image src='https://workdo.io/wp-content/uploads/2024/04/workdo-logo.png' height={45}/> */}
+                                <img src={require('./image/rajodiya-logo.png')} height={45} alt='' />
                                 </Col>
                             </Row>
                             <Row>
@@ -40,17 +41,17 @@ function footer() {
                             </Row>
                             <Row>
                                 <Col className='mt-4'>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/elite.svg' width={30}/>
-                                <Image  className='footer-img' src='https://rajodiya.com/img/badges/author_level_8.svg' width={30}/>
-                                <Image   className='footer-img' src='https://rajodiya.com/img/badges/one_billion_milestone.svg' height={34} width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/community_health.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/was_featured.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/had_featured_item.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/had_free_file.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/was_weekly_top_seller.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/had_trending_item.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/veteran_level_4.svg' width={30}/>
-                                <Image className='footer-img' src='https://rajodiya.com/img/badges/exclusive.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/elite.svg' width={30}/>
+                                <Image  className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/was_featured.svg' width={30}/>
+                                <Image   className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/had_featured_item.svg' height={34} width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/had_free_file.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/author_level_8.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/month-20.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/exclusive.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/community_health.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/was_weekly_top_seller.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/had_trending_item.svg' width={30}/>
+                                <Image className='footer-img' src='https://workdo.io/wp-content/themes/storefront-child/assets/images/icons/veteran_level_4.svg' width={30}/>
                                 </Col>
                             </Row>
                             <Row>

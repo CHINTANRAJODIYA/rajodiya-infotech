@@ -211,7 +211,7 @@ function About() {
             <Container className="w-75 margintop-120">
                 <Row>
                     <Col lg={6}>
-                    <Image src='https://rajodiya.com/svg/illustrations/illustration-9.svg' fluid /></Col>
+                    <Image src='https://bridge512.qodeinteractive.com/wp-content/uploads/2018/06/aboutus-img1.jpg' fluid /></Col>
                     <Col lg={1}></Col>
                     <Col className="text-centerr">
                         <Row>
